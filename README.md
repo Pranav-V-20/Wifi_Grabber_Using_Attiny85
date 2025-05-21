@@ -52,12 +52,12 @@ Use Arduino IDE to write and upload code. See 'Wifi_Grab.ino'.
 
 ```
 Wi-Fi-User-Name.xml:22:		
-		<keyMaterial>Password</keyMaterial>
+	<keyMaterial>Password</keyMaterial>
 ```
 
 ### 4. Website
 
-Use the (webhook)![https://webhook.site/] to receive the captured data.
+Use the [webhook](https://webhook.site/) to receive the captured data.
 
 ## 🔐 Legal Notice
 
