@@ -48,13 +48,17 @@ A lightweight Wi-Fi data grabber/sniffer tool using the ATtiny85 microcontroller
 
 Use Arduino IDE to write and upload code. See 'Wifi_Grab.ino'.
 
-### 3. Website
+### 3. Sample Output
+
+```
+Wi-Fi-User-Name.xml:22:		
+		<keyMaterial>Password</keyMaterial>
+```
+
+### 4. Website
 
 Use the (webhook)![https://webhook.site/] to receive the captured data.
 
 ## 🔐 Legal Notice
 
 This project is intended for **educational use only**. Using this code to access or interfere with Wi-Fi networks **without permission** is illegal in many countries.
-
-
-
